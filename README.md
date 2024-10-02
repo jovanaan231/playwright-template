@@ -12,7 +12,7 @@
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Karthikmani345/playwright-starter-template.git
+   git clone https://github.com/jovanaan231/playwright-template.git
    ```
 2. Navigate to the project directory:
    ```
