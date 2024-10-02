@@ -13,7 +13,7 @@ exports.LoginPage = class LoginPage {
   }
 
   async navigateUrl() {
-    await this.page.goto("https://erpc-lan.concise.co.id/login");
+    await this.page.goto("/");
   }
 
   async login(username, password) {

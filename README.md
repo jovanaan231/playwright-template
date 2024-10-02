@@ -22,11 +22,6 @@
    ```
    npm install
    ```
-4. Happy Hacking!
-
-   ```
-
-   ```
 
 ## Writing tests
 
